@@ -16,7 +16,7 @@ croniter==6.0.0
     # via tg-signer (pyproject.toml)
 distro==1.9.0
     # via openai
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 httpcore==1.0.7
     # via httpx
